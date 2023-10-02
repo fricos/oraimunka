@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Munkacsi\\Desktop\\C# es js\\random\\random\\random.csproj": {}
+    "C:\\Users\\Munkacsi\\oraimunka\\random\\random\\random.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Munkacsi\\Desktop\\C# es js\\random\\random\\random.csproj": {
+    "C:\\Users\\Munkacsi\\oraimunka\\random\\random\\random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Munkacsi\\Desktop\\C# es js\\random\\random\\random.csproj",
+        "projectUniqueName": "C:\\Users\\Munkacsi\\oraimunka\\random\\random\\random.csproj",
         "projectName": "random",
-        "projectPath": "C:\\Users\\Munkacsi\\Desktop\\C# es js\\random\\random\\random.csproj",
+        "projectPath": "C:\\Users\\Munkacsi\\oraimunka\\random\\random\\random.csproj",
         "packagesPath": "C:\\Users\\Munkacsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Munkacsi\\Desktop\\C# es js\\random\\random\\obj\\",
+        "outputPath": "C:\\Users\\Munkacsi\\oraimunka\\random\\random\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Munkacsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
