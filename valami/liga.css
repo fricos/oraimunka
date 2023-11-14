@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:wgth@300;400;500;600;700;800;900&display=swap");
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+    
+#jumbotron {
+    background-color: #0d3aff;
+}
+    
+#jumbotron img {
+    width: 200px;
+}
+    
+h1 {
+    align-items: center;
+    color: whitesmoke;
+    display: flex;
+    font-size: 3.5em;
+    font-weight: 900;
+    justify-content: space-around;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    float: left;
+    text-decoration: none;
+    width: 25%;
+}
+
+button {
+    padding: 1em;
+    width: 100%;
+    font-size: 1.2em;
+    background: #12236d;
+    color: whitesmoke;
+}
+
+button:hover {
+    background: #0b1335;
+    color: whitesmoke;
+}
+
+.pic {
+    max-width: 150px;
+    max-height: 150px;
+    align-items: center;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.7em;
+} 
+
+.csapatok {
+    display: flex;
+    border: 2px solid #12236d;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 10px;
+    margin: 20px;
+    max-width: 100%;
+}
+.csapatok h3 {
+    text-align: center;
+    width: 200px;
+    position: relative;
+}
+
+.csapatok p {
+    width: 70%;
+    text-align:justify;
+    position: relative; 
+}
+
+table, td , th{
+    border-bottom: 2px solid #12236d;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+thead {
+    background-color: beige;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+th {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+tbody{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+table {
+    width: 97%;
+    margin: 20px;
+    
+    border-collapse: collapse;
+}
