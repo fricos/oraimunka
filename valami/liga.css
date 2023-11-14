@@ -97,7 +97,7 @@ table, td , th{
 }
 
 thead {
-    background-color: beige;
+    background-color: #fff;
     text-transform: capitalize;
     text-align: center;
     font-weight: 400;
