@@ -61,10 +61,12 @@ h2 {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.7em;
+    margin: 15px;
 } 
 
 .csapatok {
     display: flex;
+    justify-content: space-between;
     border: 2px solid #12236d;
     border-radius: 30px;
     padding-bottom: 20px;
@@ -77,6 +79,7 @@ h2 {
 .csapatok h3 {
     text-align: center;
     width: 200px;
+    padding: 20px;
     position: relative;
 }
 
@@ -97,8 +100,13 @@ thead {
     background-color: beige;
     text-transform: capitalize;
     text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+span {
     font-weight: 600;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 th {
@@ -114,6 +122,6 @@ tbody{
 table {
     width: 97%;
     margin: 20px;
-    
+    margin-bottom: 50px;
     border-collapse: collapse;
 }
