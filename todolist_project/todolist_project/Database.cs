@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,10 +22,14 @@ namespace todolist_project
         {
             try
             {
-                mySqlConnection.Open();
-                return true;
+                if (mySqlConnection.State == ConnectionState.Closed)
+                {
+                    mySqlConnection.Open();
+                    return true;
+                }
+                return false; // Visszatérési érték, hogy jelzi, ha a kapcsolat már nyitva volt
             }
-            catch (MySqlException ex)
+            catch (Exception ex)
             {
                 // Kezeljük a kivételt vagy dobhatjuk tovább a hívónak
                 // A részletes hibainformációkat logolhatjuk vagy megjeleníthetjük
@@ -37,15 +42,22 @@ namespace todolist_project
         {
             try
             {
-                mySqlConnection.Close();
-                return true;
+                if (mySqlConnection.State == ConnectionState.Open)
+                {
+                    mySqlConnection.Close();
+                    return true;
+                }
+                return false; // Visszatérési érték, hogy jelzi, ha a kapcsolat már zárva volt
             }
-            catch (MySqlException ex)
+            catch (Exception ex)
             {
+                // Kezeljük a kivételt vagy dobhatjuk tovább a hívónak
+                // A részletes hibainformációkat logolhatjuk vagy megjeleníthetjük
                 Console.WriteLine($"Hiba a kapcsolat lezárása során: {ex.Message}");
                 return false;
             }
         }
+
 
 
     }

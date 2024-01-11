@@ -52,33 +52,45 @@ namespace todolist_project
                 {
                     MessageBox.Show("Database Error");
                 }
+
             }
+            catch (Exception ex) {
+                MessageBox.Show($"Hiba történt: {ex.Message}");
+            }
+           
             finally
             {
                 database.close_db();
             }
         }
 
-        private void add_Click(object sender, EventArgs e)
+        private void add_Click_1(object sender, EventArgs e)
         {
-            
+
+
             try
             {
-                database.connect_db();
-                // Felhasználói felületen megadott adatok
-                string newData = textBox1.Text; // Példa érték, helyettesítsd a saját logikáddal
-                string newData2 = textBox2.Text;
-                // SQL parancs a hozzáadáshoz
-                string insertQuery = $"INSERT INTO `geciszar` (`id`, `products`, `price`) VALUES (NULL, '{newData}', '{newData2}');";
-
-
-                using (MySqlCommand command = new MySqlCommand(insertQuery, database.mySqlConnection))
+                if (database.connect_db())
                 {
-                    command.ExecuteNonQuery();
-                }
+                    // Felhasználói felületen megadott adatok
+                    string newData = textBox1.Text; // Példa érték, helyettesítsd a saját logikáddal
+                    string newData2 = textBox2.Text;
 
-                // Frissíti a DataGridView-t az új adattal
-                loadData();
+                    // SQL parancs a hozzáadáshoz
+                    string insertQuery = $"INSERT INTO geciszar (id, products, price) VALUES (NULL, '{newData}', '{newData2}')";
+
+                    using (MySqlCommand command = new MySqlCommand(insertQuery, database.mySqlConnection))
+                    {
+                        command.ExecuteNonQuery();
+                    }
+
+                    // Frissíti a DataGridView-t az új adattal
+                    loadData();
+                }
+                else
+                {
+                    MessageBox.Show("Database connection failed.");
+                }
             }
             catch (Exception ex)
             {
@@ -90,9 +102,10 @@ namespace todolist_project
             }
         }
 
-        private void search_Click(object sender, EventArgs e)
+        private void search_Click_1(object sender, EventArgs e)
         {
-            
+
+
             try
             {
                 // Felhasználói felületen megadott keresési kifejezés
@@ -122,9 +135,10 @@ namespace todolist_project
             }
         }
 
-        private void delete_Click(object sender, EventArgs e)
+        private void delete_Click_1(object sender, EventArgs e)
         {
-            
+
+
             try
             {
                 // Felhasználó által megadott törlendő érték
@@ -152,6 +166,5 @@ namespace todolist_project
                 database.close_db();
             }
         }
-
     }
 }

@@ -71,6 +71,7 @@
             this.add.TabIndex = 3;
             this.add.Text = "add";
             this.add.UseVisualStyleBackColor = true;
+            this.add.Click += new System.EventHandler(this.add_Click_1);
             // 
             // search
             // 
@@ -80,6 +81,7 @@
             this.search.TabIndex = 4;
             this.search.Text = "search";
             this.search.UseVisualStyleBackColor = true;
+            this.search.Click += new System.EventHandler(this.search_Click_1);
             // 
             // delete
             // 
@@ -89,6 +91,7 @@
             this.delete.TabIndex = 5;
             this.delete.Text = "delete";
             this.delete.UseVisualStyleBackColor = true;
+            this.delete.Click += new System.EventHandler(this.delete_Click_1);
             // 
             // label1
             // 

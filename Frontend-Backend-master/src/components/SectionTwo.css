@@ -1,0 +1,23 @@
+h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.lilcard{
+    text-align: left;
+    position: relative;
+    display: flexbox;
+}
+
+.form1 {
+    position: absolute;
+    left: 400px;
+}
+
+form p {
+    font-size: 20px;
+    font-weight: 500;
+}
+.sectionTwo{
+    padding-bottom: 160px;
+}

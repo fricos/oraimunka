@@ -40,3 +40,45 @@ C:\Users\Munkacsi\Desktop\C# es js\todolist_project\todolist_project\obj\Debug\t
 C:\Users\Munkacsi\Desktop\C# es js\todolist_project\todolist_project\obj\Debug\todolist_project.csproj.CopyComplete
 C:\Users\Munkacsi\Desktop\C# es js\todolist_project\todolist_project\obj\Debug\todolist_project.exe
 C:\Users\Munkacsi\Desktop\C# es js\todolist_project\todolist_project\obj\Debug\todolist_project.pdb
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\todolist_project.exe.config
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\todolist_project.exe
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\todolist_project.pdb
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\Google.Protobuf.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\MySql.Data.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Buffers.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Memory.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\ZstdSharp.dll
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\Google.Protobuf.pdb
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\Google.Protobuf.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\MySql.Data.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Buffers.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Memory.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.csproj.AssemblyReference.cache
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.Form1.resources
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.Properties.Resources.resources
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.csproj.GenerateResource.cache
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.csproj.CoreCompileInputs.cache
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.csproj.CopyComplete
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.exe
+C:\Users\Munkacsi\oraimunka\todolist_project\todolist_project\obj\Debug\todolist_project.pdb
