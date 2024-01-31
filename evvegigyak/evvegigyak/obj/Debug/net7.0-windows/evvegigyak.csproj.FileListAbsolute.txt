@@ -1,0 +1,16 @@
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\bin\Debug\net7.0-windows\evvegigyak.exe
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\bin\Debug\net7.0-windows\evvegigyak.deps.json
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\bin\Debug\net7.0-windows\evvegigyak.runtimeconfig.json
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\bin\Debug\net7.0-windows\evvegigyak.dll
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\bin\Debug\net7.0-windows\evvegigyak.pdb
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.Form1.resources
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.csproj.GenerateResource.cache
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.AssemblyInfoInputs.cache
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.AssemblyInfo.cs
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.csproj.CoreCompileInputs.cache
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.dll
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\refint\evvegigyak.dll
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.pdb
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\evvegigyak.genruntimeconfig.cache
+C:\Users\Munkacsi\Desktop\C# es js\evvegigyak\evvegigyak\obj\Debug\net7.0-windows\ref\evvegigyak.dll
