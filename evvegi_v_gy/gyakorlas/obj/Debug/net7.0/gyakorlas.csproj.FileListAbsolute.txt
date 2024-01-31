@@ -1,0 +1,14 @@
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\bin\Debug\net7.0\gyakorlas.exe
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\bin\Debug\net7.0\gyakorlas.deps.json
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\bin\Debug\net7.0\gyakorlas.runtimeconfig.json
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\bin\Debug\net7.0\gyakorlas.dll
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\bin\Debug\net7.0\gyakorlas.pdb
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.AssemblyInfoInputs.cache
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.AssemblyInfo.cs
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.dll
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\refint\gyakorlas.dll
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.pdb
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\gyakorlas.genruntimeconfig.cache
+C:\Users\Munkacsi\Desktop\C# es js\gyakorlas\gyakorlas\obj\Debug\net7.0\ref\gyakorlas.dll
